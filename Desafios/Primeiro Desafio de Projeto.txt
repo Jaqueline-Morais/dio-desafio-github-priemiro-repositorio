@@ -1,2 +1,12 @@
-Iniciei o desafio de projeto seguindo as orienta��es da aula "Git e GitHub: Relembrando algumas coisinhas".
-Novamente me deparei com os problemas citados no curso "Introdu��o ao Git e ao GitHub, ou seja, n�o consigo visualizar a pasta .git e nem os arquivos em markdown.
+Iniciei o desafio de projeto seguindo as orientações da aula "Git e GitHub: Relembrando algumas coisinhas".
+Novamente me deparei com os problemas citados no curso "Introdução ao Git e ao GitHub, ou seja, não consigo visualizar a pasta .git e nem os arquivos em markdown.
+Após realizar  os procedimentos para clonar o repositório, adicionaar as alterações na máquina , comitar e tentar realizar o envio das alterações para o GitHub apareceu o seguinte erro:
+fatal: Ocorreu um erro ao enviar a solicitação.
+fatal: A solicitação foi anulada: Não foi possível criar um canal seguro para SSL/TLS.
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/Jaqueline-Morais/dio-desafio-github-priemiro-repositorio.git/'
+
+Como mencionado  nas poucas anotações do curso "Introdução ao Git e ao GitHub", o qual irei complementar, mesmo realizando os passos a passos de maneira correta ainda continuo tendo probelmas.
+Por fim , acabei baixando os documentos criados recentementes numa pasta do computador para poder dar contunuidade ao bootcamp, que por sinal, ainda falata muito  para acabar devido a muitos contratempos com meu PC da era Jurássica! 
+Acredito se tratar do sistema operacional antigo Windows 7 ou de alguma coisa que falta que não veio ao instalar o Git.
