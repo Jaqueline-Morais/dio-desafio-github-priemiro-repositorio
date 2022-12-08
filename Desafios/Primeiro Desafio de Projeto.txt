@@ -1,0 +1,2 @@
+Iniciei o desafio de projeto seguindo as orientações da aula "Git e GitHub: Relembrando algumas coisinhas".
+Novamente me deparei com os problemas citados no curso "Introdução ao Git e ao GitHub, ou seja, não consigo visualizar a pasta .git e nem os arquivos em markdown.

@@ -1,0 +1,6 @@
+A instalção e os procedimentos aprendidos no curso ocorreram de forma tranquila. Não houve dificuldades de execução dos comandos. No entanto notei que a pasta .git aparece na CLI, mas não na interface do Windows quando acesso as pastas criadas para realizar as atvidades e desafios. Na instalção do Git notei que algumas das etapas que apareceram no curso, não apareceram no momento que realizei a instalação. Acredito que algumas funcionalidades estejam comprometidas ou não foram baixadas por eu possuir um computador com Windows 7 32 bits.
+Além disso, ao realizar os procedimentos para transformar um arquivo txt em md, não houve sucesso, mesmo com o Typora instalado.
+Instalei e desistalei várias vezes os programas seguindo todos os procedimentos de configuração por várias vezes, o que não resolveu o problema. 
+Acredito que não será possível finalizar o bootcamp por conta desse contratempo, mas continuo em frente enquanto não posso adquirir um computador melhor.
+
+
